@@ -3,8 +3,6 @@ import { CommonModule } from '@angular/common';
 import { InputComponent } from './controls/input/input.component';
 import { LabelComponent } from './controls/label/label.component';
 
-
-
 @NgModule({
   declarations: [
     InputComponent,
