@@ -5,7 +5,7 @@ import { OrderListComponent } from './order-list/order-list.component';
 
 const routes: Routes = [
   {
-    path: '',
+    path: ':oid',
     component: OrderListComponent
   }
 ];
